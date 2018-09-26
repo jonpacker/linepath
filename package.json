@@ -1,0 +1,12 @@
+{
+  "name": "linepath",
+  "version": "1.0.0",
+  "description": "convert an svg path to lines",
+  "main": "linepath.js",
+  "author": "Jon Packer",
+  "license": "MIT",
+  "dependencies": {
+    "bezier": "^0.1.0",
+    "svg-path-parser": "^1.1.0"
+  }
+}
